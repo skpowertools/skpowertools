@@ -1,0 +1,27 @@
+<!-- breaking icon for SK Power Tools -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Breaker hammer body - large, vertical, heavy -->
+  <rect x="48" y="8" width="32" height="52" rx="6" fill="#0d2240"/>
+  <!-- Motor housing bump -->
+  <rect x="44" y="14" width="40" height="22" rx="5" fill="#0d2240"/>
+  <!-- Grip handle -->
+  <path d="M54 60 Q54 80 48 80 Q38 80 38 70 Q38 60 48 60 Z" fill="#0d2240"/>
+  <!-- Chisel bit - long, tapered, angled for impact feel -->
+  <polygon points="60,60 68,60 72,108 56,108" fill="#0d2240"/>
+  <!-- Chisel tip -->
+  <polygon points="56,108 72,108 64,120" fill="#0d2240"/>
+  <!-- Impact cracks in ground -->
+  <line x1="64" y1="120" x2="44" y2="128" stroke="#f9c000" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="64" y1="120" x2="84" y2="128" stroke="#f9c000" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="64" y1="120" x2="30" y2="122" stroke="#f9c000" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="64" y1="120" x2="98" y2="124" stroke="#f9c000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Impact dust dots -->
+  <circle cx="38" cy="116" r="3" fill="#f9c000"/>
+  <circle cx="92" cy="118" r="2.5" fill="#f9c000"/>
+  <circle cx="24" cy="120" r="2" fill="#f9c000"/>
+  <!-- Side vents on body -->
+  <rect x="46" y="24" width="6" height="3" rx="1" fill="#f8f5ee" opacity="0.25"/>
+  <rect x="46" y="30" width="6" height="3" rx="1" fill="#f8f5ee" opacity="0.25"/>
+  <rect x="76" y="24" width="6" height="3" rx="1" fill="#f8f5ee" opacity="0.25"/>
+  <rect x="76" y="30" width="6" height="3" rx="1" fill="#f8f5ee" opacity="0.25"/>
+</svg>

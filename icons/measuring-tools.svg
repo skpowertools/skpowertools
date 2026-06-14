@@ -1,0 +1,30 @@
+<!-- measuring-tools icon for SK Power Tools -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Laser level body - solid rectangular unit -->
+  <rect x="18" y="50" width="92" height="32" rx="7" fill="#0d2240"/>
+  <!-- Level bubble window -->
+  <rect x="46" y="58" width="36" height="16" rx="4" fill="#f8f5ee" opacity="0.15"/>
+  <ellipse cx="64" cy="66" rx="6" ry="6" fill="none" stroke="#f8f5ee" stroke-width="2" opacity="0.5"/>
+  <circle cx="64" cy="66" r="2.5" fill="#f9c000"/>
+  <!-- Left laser beam -->
+  <rect x="4" y="64" width="14" height="4" rx="2" fill="#f9c000"/>
+  <!-- Right laser beam -->
+  <rect x="110" y="64" width="14" height="4" rx="2" fill="#f9c000"/>
+  <!-- Beam flare left -->
+  <polygon points="4,62 4,70 0,66" fill="#f9c000"/>
+  <!-- Beam flare right -->
+  <polygon points="124,62 124,70 128,66" fill="#f9c000"/>
+  <!-- Tripod legs -->
+  <line x1="64" y1="82" x2="30" y2="120" stroke="#0d2240" stroke-width="6" stroke-linecap="round"/>
+  <line x1="64" y1="82" x2="64" y2="120" stroke="#0d2240" stroke-width="6" stroke-linecap="round"/>
+  <line x1="64" y1="82" x2="98" y2="120" stroke="#0d2240" stroke-width="6" stroke-linecap="round"/>
+  <!-- Tripod feet -->
+  <circle cx="30" cy="120" r="4" fill="#0d2240"/>
+  <circle cx="64" cy="120" r="4" fill="#0d2240"/>
+  <circle cx="98" cy="120" r="4" fill="#0d2240"/>
+  <!-- Mounting stud -->
+  <rect x="60" y="76" width="8" height="10" rx="2" fill="#0d2240"/>
+  <!-- Top button / controls -->
+  <circle cx="36" cy="56" r="4" fill="#f9c000"/>
+  <rect x="84" y="54" width="16" height="4" rx="2" fill="#f8f5ee" opacity="0.3"/>
+</svg>

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "lastUpdated": "2026-06-14T19:30:00+05:30",
+  "shop": {
+    "name": "Sree Krishna Power Tools",
+    "phone": [
+      "9444130679",
+      "9043564991"
+    ],
+    "location": "Maduravoyal, Chennai"
+  },
+  "display": {
+    "showPrice": true,
+    "showStatus": true,
+    "currency": "INR"
+  },
+  "machines": []
+}

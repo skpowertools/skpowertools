@@ -1,0 +1,18 @@
+<!-- cutting icon for SK Power Tools -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Circular saw blade -->
+  <circle cx="64" cy="64" r="46" fill="#0d2240"/>
+  <circle cx="64" cy="64" r="18" fill="#f8f5ee"/>
+  <circle cx="64" cy="64" r="8" fill="#0d2240"/>
+  <!-- Blade teeth: 8 triangular teeth around the perimeter -->
+  <polygon points="64,18 70,10 58,10" fill="#f9c000"/>
+  <polygon points="91,27 99,21 95,33" fill="#f9c000"/>
+  <polygon points="110,54 118,50 118,62" fill="#f9c000"/>
+  <polygon points="101,91 109,95 103,83" fill="#f9c000"/>
+  <polygon points="64,110 58,118 70,118" fill="#f9c000"/>
+  <polygon points="27,91 21,95 25,83" fill="#f9c000"/>
+  <polygon points="18,54 10,50 10,62" fill="#f9c000"/>
+  <polygon points="37,27 29,21 33,33" fill="#f9c000"/>
+  <!-- Arbor hole accent -->
+  <circle cx="64" cy="64" r="4" fill="#f9c000"/>
+</svg>

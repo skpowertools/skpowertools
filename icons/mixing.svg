@@ -1,0 +1,28 @@
+<!-- mixing icon for SK Power Tools -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Mixer drum (tilted barrel shape) -->
+  <!-- Drum body: rotated ellipse/barrel -->
+  <ellipse cx="60" cy="58" rx="34" ry="28" fill="#0d2240" transform="rotate(-20 60 58)"/>
+  <!-- Drum opening (ellipse at mouth) -->
+  <ellipse cx="44" cy="44" rx="14" ry="10" fill="#f8f5ee" transform="rotate(-20 44 44)"/>
+  <!-- Drum stripe / mixing fin suggestion -->
+  <path d="M36 34 Q52 50 40 68" fill="none" stroke="#f9c000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Drum frame / support chassis -->
+  <rect x="52" y="86" width="46" height="10" rx="4" fill="#0d2240"/>
+  <!-- Chassis legs -->
+  <rect x="54" y="94" width="8" height="22" rx="3" fill="#0d2240"/>
+  <rect x="84" y="94" width="8" height="22" rx="3" fill="#0d2240"/>
+  <!-- Wheels -->
+  <circle cx="58" cy="116" r="7" fill="#0d2240"/>
+  <circle cx="58" cy="116" r="3" fill="#f8f5ee"/>
+  <circle cx="88" cy="116" r="7" fill="#0d2240"/>
+  <circle cx="88" cy="116" r="3" fill="#f8f5ee"/>
+  <!-- Tow hitch / handle bar -->
+  <rect x="14" y="84" width="42" height="8" rx="4" fill="#0d2240"/>
+  <circle cx="14" cy="88" r="6" fill="#0d2240"/>
+  <circle cx="14" cy="88" r="3" fill="#f9c000"/>
+  <!-- Rotation motion arc (shows drum spins) -->
+  <path d="M78 28 Q92 36 88 52" fill="none" stroke="#f9c000" stroke-width="3" stroke-linecap="round" stroke-dasharray="4 3"/>
+  <!-- Discharge chute -->
+  <path d="M44 68 L28 86 L18 86" fill="none" stroke="#0d2240" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
